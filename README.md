@@ -4,4 +4,4 @@ Projeto referente ao evento NLW Expert realizado pela Rocketseat utilizando Node
 
 ## Objetivo
 
-Criar um sistema de enquetes em **tempo real** utilizando WebSockets e com opção de inserir, consultar e votar na enquete desejada. Setup utilizando Fastify, Prisma e Zod para validação de schemas, entre outros.
+Criar um sistema de enquetes em **tempo real** utilizando WebSockets e com opção de inserir, consultar e votar na enquete desejada. Setup utilizando Fastify, Prisma, Redis, Zod, entre outros.
